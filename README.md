@@ -4,7 +4,7 @@ Descrition : Someone sent an audio file to their friend trying to tell them thei
 
 When looking at the strings of the audio file we notice that there is nothing interesting, but when we look at the hex of the file we notice that there is data inside
 
-
+command : xxd sound_steg.wav | head 
 ![Screenshot_2022-09-13_08_16_59](https://user-images.githubusercontent.com/80649768/189899762-2cfd810f-9870-4d1e-9df3-0e200002da69.png)
 
 
