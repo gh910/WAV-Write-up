@@ -1,4 +1,4 @@
-# WAV Write-up
+# YUCTF WAV Write-up
 
 Descrition : Someone sent an audio file to their friend trying to tell them their password, can you help us find it?
 
