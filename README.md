@@ -1,5 +1,7 @@
 # YUCTF WAV Write-up
 
+Category : Steganography
+
 Descrition : Someone sent an audio file to their friend trying to tell them their password, can you help us find it?
 
 When looking at the strings of the audio file we notice that there is nothing interesting, but when we look at the hex of the file we notice that there is data inside
